@@ -22,12 +22,19 @@ Now you have your first timeslice with your love, start enjoying your life.
 
 #### Requirements
 You need some preparations before you can enjoy this supreme life tracking engine.
+
 All the requierments are registered in the requirements.txt, including but not all necessary:
+
 A girlfriend/boyfriend, necessary but not more than one!
+
 Python >= 3.0
+
 Docker >= 4.0
+
 NVIDIA GPU driver >= 415.06
+
 NVIDIA TensorRT >= 5.0
+
 ...
 
 #### API Documents
