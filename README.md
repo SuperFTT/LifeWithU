@@ -37,4 +37,4 @@ Feel free to access www.lifewithu.com/api/docs to learn from scratch.
 #### How to contribute
 Wanna contribute? Just fork me on this Github repo.
 
-## To learn more, please read the paper we published on top-class Nature somthing Journals on Google Scholar
+#### To learn more, please read the paper we published on top-class Nature something Journals on Google Scholar
